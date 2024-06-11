@@ -1,0 +1,31 @@
+com.example.dars_29_home.app-jetified-lifecycle-process-2.4.1-0 C:\Users\User\.gradle\caches\transforms-3\0147bb345607952e1a5cf37fff5b7f49\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.dars_29_home.app-jetified-window-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\res
+com.example.dars_29_home.app-fragment-1.3.6-2 C:\Users\User\.gradle\caches\transforms-3\1fb0d8050e9f040414e701c63890ade4\transformed\fragment-1.3.6\res
+com.example.dars_29_home.app-lifecycle-runtime-2.5.1-3 C:\Users\User\.gradle\caches\transforms-3\242c50f579b3f0da839b51c371785c71\transformed\lifecycle-runtime-2.5.1\res
+com.example.dars_29_home.app-lifecycle-viewmodel-2.5.1-4 C:\Users\User\.gradle\caches\transforms-3\2d508dd669c30e16703fc4a3bf9f038b\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.dars_29_home.app-jetified-annotation-experimental-1.1.0-5 C:\Users\User\.gradle\caches\transforms-3\3f24deeb77977edbb47db48461b9f6aa\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dars_29_home.app-jetified-window-java-1.0.0-beta04-6 C:\Users\User\.gradle\caches\transforms-3\3fe57bd5d3c2ce0f0ac71f2b847a1090\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.dars_29_home.app-swiperefreshlayout-1.1.0-7 C:\Users\User\.gradle\caches\transforms-3\470460c1b49f239105074559d1d2ca67\transformed\swiperefreshlayout-1.1.0\res
+com.example.dars_29_home.app-browser-1.4.0-8 C:\Users\User\.gradle\caches\transforms-3\4dd49341018e0c5ff736003e3f876791\transformed\browser-1.4.0\res
+com.example.dars_29_home.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-9 C:\Users\User\.gradle\caches\transforms-3\562763a3e537931185b2fe3a508a0a53\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.dars_29_home.app-jetified-savedstate-1.2.0-10 C:\Users\User\.gradle\caches\transforms-3\649fd6f91359a17c74a5b3a671d86e1c\transformed\jetified-savedstate-1.2.0\res
+com.example.dars_29_home.app-appcompat-1.5.1-11 C:\Users\User\.gradle\caches\transforms-3\7dbb293bcdb912d57d365e6a1ade1cb1\transformed\appcompat-1.5.1\res
+com.example.dars_29_home.app-jetified-emoji2-views-helper-1.2.0-12 C:\Users\User\.gradle\caches\transforms-3\7fc9f377506fd6f78a76f45b64905db0\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.dars_29_home.app-jetified-startup-runtime-1.1.1-13 C:\Users\User\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\res
+com.example.dars_29_home.app-jetified-appcompat-resources-1.5.1-14 C:\Users\User\.gradle\caches\transforms-3\a2051089d740fa4d65625a0e612bda9e\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.dars_29_home.app-core-1.8.0-15 C:\Users\User\.gradle\caches\transforms-3\c9d112a2d6cf35ca10da2ee105c9cece\transformed\core-1.8.0\res
+com.example.dars_29_home.app-webkit-1.5.0-16 C:\Users\User\.gradle\caches\transforms-3\cdb7aea627ada455401a7841bb0c6b7b\transformed\webkit-1.5.0\res
+com.example.dars_29_home.app-jetified-activity-1.5.1-17 C:\Users\User\.gradle\caches\transforms-3\cf6bc65c8db3f39f0e3ed55d17558612\transformed\jetified-activity-1.5.1\res
+com.example.dars_29_home.app-jetified-core-ktx-1.8.0-18 C:\Users\User\.gradle\caches\transforms-3\d23172fb05d75214ebee4be1ac07d677\transformed\jetified-core-ktx-1.8.0\res
+com.example.dars_29_home.app-jetified-emoji2-1.2.0-19 C:\Users\User\.gradle\caches\transforms-3\fb9097f0f70d592b5623d5be7a0d4a83\transformed\jetified-emoji2-1.2.0\res
+com.example.dars_29_home.app-lifecycle-livedata-core-2.5.1-20 C:\Users\User\.gradle\caches\transforms-3\fe4b836b050494581af4ef882dffb559\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.dars_29_home.app-debug-21 C:\Users\User\secret files\flutter_home\dars_29_home\android\app\src\debug\res
+com.example.dars_29_home.app-main-22 C:\Users\User\secret files\flutter_home\dars_29_home\android\app\src\main\res
+com.example.dars_29_home.app-pngs-23 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\generated\res\pngs\debug
+com.example.dars_29_home.app-resValues-24 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\generated\res\resValues\debug
+com.example.dars_29_home.app-rs-25 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\generated\res\rs\debug
+com.example.dars_29_home.app-mergeDebugResources-26 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.dars_29_home.app-mergeDebugResources-27 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.dars_29_home.app-merged_res-28 C:\Users\User\secret files\flutter_home\dars_29_home\build\app\intermediates\merged_res\debug
+com.example.dars_29_home.app-packaged_res-29 C:\Users\User\secret files\flutter_home\dars_29_home\build\flutter_inappwebview\intermediates\packaged_res\debug
+com.example.dars_29_home.app-packaged_res-30 C:\Users\User\secret files\flutter_home\dars_29_home\build\shared_preferences_android\intermediates\packaged_res\debug
